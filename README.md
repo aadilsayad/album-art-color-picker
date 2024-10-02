@@ -1,4 +1,4 @@
-# Spotify-like Color Extractor
+# Spotify-like Album Art Color Picker
 
 This tool emulates the color selection behavior of the Spotify app, where two colors are extracted from an album's artwork. These colors are typically used for enhancing user interface elements such as the lyrics viewer's background and the player notification's background and text color.
 
@@ -34,7 +34,7 @@ The color extraction process involves several steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/spotify-color-extractor.git
+   git clone https://github.com/aadilsayad/album-art-color-picker.git
    ```
 
 2. Install the required dependencies:
@@ -44,7 +44,7 @@ The color extraction process involves several steps:
 
 3. Run the script:
    ```python
-   python color_extractor.py
+   python album_art_color_picker.py
    ```
 
    Note: Make sure to replace `"path/to/image.png"` in the `main()` function with the path to your image file.
