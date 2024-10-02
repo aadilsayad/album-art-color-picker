@@ -60,10 +60,6 @@ The script will print:
 
 Contributions to improve the color extraction algorithm or add new features are welcome. Please feel free to submit a pull request or open an issue to discuss potential changes.
 
-## License
-
-[MIT License](LICENSE)
-
 ## Acknowledgments
 
 This project was inspired by the color selection mechanism used in the Spotify app for enhancing user interface elements.
