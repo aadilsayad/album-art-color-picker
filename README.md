@@ -54,7 +54,7 @@ The color extraction process involves several steps:
 The script will print:
 - The dominant color (RGBA)
 - A contrasting color (RGBA)
-- A list of the top 20 colors in the image, along with their frequency counts
+- A list of the 20 most dominant colors in the image, along with their frequency counts
 
 ## Contributing
 
